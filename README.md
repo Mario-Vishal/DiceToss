@@ -1,2 +1,2 @@
 # DiceToss
-A simple dice toss.
+A simple toss of Dice.
